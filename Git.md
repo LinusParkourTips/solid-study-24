@@ -125,7 +125,7 @@ Gomepage that makes it easier for others to interact with your code and scripts,
 
 
 ```bash
-git puch -u origin main
+git push -u origin main
 ```
 
 
@@ -144,10 +144,10 @@ If you encounter the message "remote: Support for password authentication was re
 
 
 ```bash
-git puch -u origin main
+git push -u origin main
 ```
 
-### If Error: failed to puch some refs to ''
+### If Error: failed to push some refs to ''
 ```bash
 (base) fredriklorensson@AirsomtFredrik2 l9git % git push -u origin main     
 
